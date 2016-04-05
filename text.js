@@ -1,1 +1,1 @@
-document.write("I am using a js file");
+document.write("External Source is included");
